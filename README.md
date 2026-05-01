@@ -1,8 +1,8 @@
-<h3 align="center" style="font-size: 44px; font-weight: 700;">
+<h1 align="center" style="font-size: 44px; font-weight: 700;">
 Hi, I'm <span style="color: #FF10EF;">Ahmad Ali</span>
-</h3>
-<h3 align="center" >Shopify Theme & App Developer | MERN Stack | Youtuber</h3>
-<h5 style="font-size: 18px; color: #FF10EF; text-align: center; margin-bottom: 1.5rem">ahmad.shopify.dev@gmail.com | <em>+92316-5001019</em></h5>
+</h1>
+<h4 align="center" >Shopify Theme & App Developer | MERN Stack | Youtuber</h4>
+<h5 align="center" style="font-size: 18px; color: #FF10EF; text-align: center; margin-bottom: 1.5rem">ahmad.shopify.dev@gmail.com | <em>+92316-5001019</em></h5>
 
 ---
 
