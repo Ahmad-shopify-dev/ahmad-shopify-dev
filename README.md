@@ -50,7 +50,7 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 <ul style="margin-bottom: 1.5rem">
     <li>E-Sim orders and mail automation app with resend and esimaccess api</li>
     <li>Discount API implementation</li>
-    <li>Price Handler App for mapbox with mapbox API </li>
+    <li>Price Handler App with mapbox API for [memomap.](https://memomap.store/) </li>
 </ul>
 
 ---
