@@ -30,6 +30,7 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 
 <h3 style="font-size: 40px">👇 Check Out</h3>
 <ul>
+    <li><a href="https://mon-chef-nutrition.myshopify.com/">Mon Chef</a> - Custom website with Onboarding API Integration</li>
     <li><a href="https://www.sailbrace.com/">Sailbrace</a> - Custom features and pages implementation</li>
     <li><a href="https://www.skinzform.com/">Skinzform</a> - Converted from Lovable</li>
     <li><a href="http://w-compliments.myshopify.com/">W-Compliments</a> - Converted from figma with pixel-perfection</li>
