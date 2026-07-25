@@ -30,8 +30,8 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 
 <h3 style="font-size: 40px">👇 Check Out</h3>
 <ul>
-    <li><a href="[https://www.skinzform.com/](https://buffy.co/products/breeze-sheets?variant=20477873717346&view=figma-redesign-new)">Buffy.co</a> -PDP pages design with custom features</li>
-    <li><a href="[https://www.skinzform.com/](https://vivazen.com/products/vivazen-energy-and-focus-shot)">Vivazen</a> - Vivazen metaobject comparison and page designs</li>
+    <li><a href="https://buffy.co/products/breeze-sheets?variant=20477873717346&view=figma-redesign-new">Buffy.co</a> -PDP pages design with custom features</li>
+    <li><a href="https://vivazen.com/products/vivazen-energy-and-focus-shot">Vivazen</a> - Vivazen metaobject comparison and page designs</li>
     <li><a href="https://hayahcare.health/">Hayah Health</a> - Hayah Health complete website with 18 screen quiz data tracking and multilangual setup.</li>
     <li><a href="https://mon-chef-nutrition.myshopify.com/">Mon Chef</a> - Custom website with Onboarding API Integration</li>
     <li><a href="https://www.sailbrace.com/">Sailbrace</a> - Custom features and pages implementation</li>
