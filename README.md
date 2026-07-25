@@ -30,6 +30,9 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 
 <h3 style="font-size: 40px">👇 Check Out</h3>
 <ul>
+    <li><a href="[https://www.skinzform.com/](https://buffy.co/products/breeze-sheets?variant=20477873717346&view=figma-redesign-new)">Buffy.co</a> -PDP pages design with custom features</li>
+    <li><a href="[https://www.skinzform.com/](https://vivazen.com/products/vivazen-energy-and-focus-shot)">Vivazen</a> - Vivazen metaobject comparison and page designs</li>
+    <li><a href="https://hayahcare.health/">Hayah Health</a> - Hayah Health complete website with 18 screen quiz data tracking and multilangual setup.</li>
     <li><a href="https://mon-chef-nutrition.myshopify.com/">Mon Chef</a> - Custom website with Onboarding API Integration</li>
     <li><a href="https://www.sailbrace.com/">Sailbrace</a> - Custom features and pages implementation</li>
     <li><a href="https://www.skinzform.com/">Skinzform</a> - Converted from Lovable</li>
@@ -50,6 +53,7 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 <p style="color: #FF10EF; margin-bottom: 1rem;">Feel free to ask for queries and questions about stores.</p>
 <ul style="margin-bottom: 1.5rem">
     <li>E-Sim orders and mail automation app with resend and esimaccess api</li>
+    <li>Dulcet Gift Basket App with multi-address order placement</li>
     <li>Discount API implementation</li>
     <li>Price Handler App with mapbox API for [memomap.](https://memomap.store/) </li>
 </ul>
