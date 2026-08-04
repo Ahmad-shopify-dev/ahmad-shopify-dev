@@ -30,22 +30,23 @@ Hi, I'm <span style="color: #FF10EF;">Amad Ali</span>
 
 <h3 style="font-size: 40px">👇 Check Out</h3>
 <ul>
-    <li><a href="https://buffy.co/products/breeze-sheets?variant=20477873717346&view=figma-redesign-new">Buffy.co</a> -PDP pages design with custom features</li>
-    <li><a href="https://vivazen.com/products/vivazen-energy-and-focus-shot">Vivazen</a> - Vivazen metaobject comparison and page designs</li>
+    <li><a href="https://buffy.co/products/breeze-sheets?variant=20477873717346&view=figma-redesign-new">Buffy.co</a> - PDP pages design with custom features. (Node Agency)</li>
+    <li><a href="https://tcwhiskey.myshopify.com/collections/whiskey">TCWhiskey</a> - Collection filteration based on tags. (Node Agency)</li>
+    <li><a href="https://vivazen.com/products/vivazen-energy-and-focus-shot">Vivazen</a> - Vivazen metaobject comparison and page designs. (Node Agency)</li>
     <li><a href="https://hayahcare.health/">Hayah Health</a> - Hayah Health complete website with 18 screen quiz data tracking and multilangual setup.</li>
     <li><a href="https://mon-chef-nutrition.myshopify.com/">Mon Chef</a> - Custom website with Onboarding API Integration</li>
-    <li><a href="https://www.sailbrace.com/">Sailbrace</a> - Custom features and pages implementation</li>
-    <li><a href="https://www.skinzform.com/">Skinzform</a> - Converted from Lovable</li>
-    <li><a href="http://w-compliments.myshopify.com/">W-Compliments</a> - Converted from figma with pixel-perfection</li>
-    <li><a href="https://lineargent.com/">Lineargent</a> - Custom features and complex filters</li>
-    <li><a href="https://aromely.com/">Aromely</a> - Search and Cart optimization with custom features</li>
-    <li><a href="https://0ugteg-ks.myshopify.com/">Matratze</a> - Pixel-perfection development with custom features</li>
+    <li><a href="https://www.sailbrace.com/">Sailbrace</a> - Custom features and pages implementation (EcomBright Agency)</li>
+    <li><a href="https://www.skinzform.com/">Skinzform</a> - Converted from Lovable (EcomBright Agency)</li>
+    <li><a href="http://w-compliments.myshopify.com/">W-Compliments</a> - Converted from figma with pixel-perfection (EcomBright Agency)</li>
+    <li><a href="https://lineargent.com/">Lineargent</a> - Custom features and complex filters (OptiExperts)</li>
+    <li><a href="https://aromely.com/">Aromely</a> - Search and Cart optimization with custom features (OptiExperts)</li>
+    <li><a href="https://0ugteg-ks.myshopify.com/">Matratze</a> - Pixel-perfection development with custom features (EcomBright Agency)</li>
     <li><a href="https://fortika.coffee/">Fortika</a> - Fundraising compaign implemented</li>
     <li><a href="https://kiltsstore.com/products/scottish-national-tartan-kilt-traditional-highland-outfit">Kilt-Store</a> - Product bundle feature implemented</li>
     <li><a href="https://mahoussedechaise.fr/products/product-kit?view=bundle-template-stack">Ma Housse De Chaise</a> - Complete bundle pack implementtation</li>
     <li><a href="https://v869ck-s0.myshopify.com/">Fruidom</a> - Complete store design with custom selling plans and search features</li>
     <li><a href="https://holy-blends.fr/">Holey-blends</a> - Complete store design with custom bundle and selling plan features</li>
-    <li><a href="https://chiashark.com/">Chiashark</a> - Converted from AI design</li>
+    <li><a href="https://chiashark.com/">Chiashark</a> - Converted from AI design (EcomBright Agency)</li>
     <li><a href="https://www.aviqueprints.com/">Avique magnet pics</a> - Designed from scratch with cusotm features</li>
     <li><a href="https://www.oimaas.ca/">Oimaas</a> - Designed from scratch</li>
     <li>Lot of more stores you can ask for them</li>
